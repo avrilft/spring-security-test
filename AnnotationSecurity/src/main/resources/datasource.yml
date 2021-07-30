@@ -1,0 +1,6 @@
+driver: com.mysql.jdbc.Driver
+url: jdbc://mysql:localhost:3306/test
+userName: root
+password: yxd123456
+maxActive: 20
+minActive: 5
